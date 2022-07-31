@@ -1,0 +1,8 @@
+apiVersion: redis.xiaohongshu.org/v1
+kind: RedisCluster
+metadata:
+  name: rediscluster-sample
+spec:
+  # TODO(user): Add fields here
+  firstname: Jimmy
+  lastname: Song
